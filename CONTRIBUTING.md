@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Все вклады, отчеты об ошибках, исправления ошибок, улучшения документации, улучшения и идеи приветствуются.
 
 ## How to Contribute
 1. Fork the repository.
